@@ -1,0 +1,24 @@
+html {
+  font-family: Trebuchet;
+  text-align: center;
+  background-color: salmon;
+}
+nav, h1, h2 {
+  color: salmon;
+}
+a {
+  color: SeaGreen;
+}
+p {
+  color: DarkBlue;
+}
+nav, #menu {
+  background-color: DarkBlue;
+}
+h1, h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 40px;
+  color: SeaGreen;
+}
